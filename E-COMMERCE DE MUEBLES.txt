@@ -1,0 +1,32 @@
+E-COMMERCE DE MUEBLES
+
+USUARIO
+
+  https://mueblesagustin.com
+  --> Ve los productos y los compra
+    1- Listado de productos
+    2- Categoria?
+
+    Interior  
+
+        Living     
+        Cocina     
+            --> Organizadores
+            --> Alacenas
+
+    Exterior
+        Hamaca
+        Mesa de Jardin
+
+    3- Registrar?
+       --> nombre, apellido, dni...
+
+    4- Login
+
+       --> Favoritos
+       --> Historial
+
+ADMIN
+  https://mueblesagustin.com/admin
+  --> Publicar los productos
+
