@@ -41,3 +41,16 @@
 
   font-size: 36px;
 }
+
+.card-link {
+  color: black;
+}
+
+.card:hover {
+  border: 1px solid blue;
+}
+
+.card-img-top {
+  height: 40vh;
+  object-fit: contain;
+}
